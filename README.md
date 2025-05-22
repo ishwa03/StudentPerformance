@@ -8,7 +8,7 @@ pip package manager
 Git
 
 📥 1. Clone the Repository
-git clone https://github.com/your-username/student-performance-predictor.git
+git clone https://github.com/ishwa03/StudentPerformance
 cd student-performance-predictor
 
 📦 2. Create and Activate Virtual Environment
